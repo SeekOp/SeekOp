@@ -34,8 +34,8 @@ Interested in contributing? We welcome open-source developers to help build the 
 - Report issues and suggest improvements.  
 
 ### 📢 Get in Touch  
-- 🌐 Website: [seekop.ai](https://seekop.xyz)  
-- 📩 Email: support@seekop.ai  
+- 🌐 Website: [seekop.xyz](https://seekop.xyz)  
+- 📩 Email: support@seekop.xyz  
 - 💬 Discord: [Join our community](https://discord.gg/seekop)  
 
 Let’s build the future of AI-driven automation together! 🚀  
